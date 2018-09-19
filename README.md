@@ -18,5 +18,5 @@ Find some useful tips about telegram bots and id in the code!
  contains an easy way to use the functions to print total time spent
 
 # Expected Outcome
-![](https://github.com/thebooort/script_status_sender/tree/master/images/example1.png)
-![](https://github.com/thebooort/script_status_sender/tree/master/images/example2.png)
+![](https://github.com/thebooort/script_status_sender/blob/master/images/example1.png)
+![](https://github.com/thebooort/script_status_sender/blob/master/images/example2.png)
